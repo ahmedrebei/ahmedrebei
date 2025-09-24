@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: Creating bugs<br>💾 Warning: May contain experimental code, excessive logging, and occasional existential crises.</p>
+<p align="left">🎯 Goals: Creating bugs</p>
 
 ###
 
