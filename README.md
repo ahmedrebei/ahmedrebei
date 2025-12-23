@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Data Scientist on a mission to revolutionize education with AI—one confused student at a time.</p>
+<p align="left">Making bugs so I can fix them later.</p>
 
 ###
 
